@@ -1,4 +1,6 @@
-# HOW TO RUN
+This repository contains the code necessary to reproduce the experiments of the RANLP 2019 paper [*Quasi Bidirectional Encoder Representations from Transformers for Word Sense Disambiguation*](http://lml.bas.bg/ranlp2019/proceedings-ranlp-2019.pdf#page=142), by Michele Bevilacqua and Roberto Navigli. If you have any questions, please contact me at [bevilacqua@di.uniroma1.it](mailto:bevilacqua@di.uniroma1.it). 
+
+# Instructions
 `cd` to the folder containing this file.
 ## Installation
 ### Requirements:
